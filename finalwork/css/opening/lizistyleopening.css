@@ -1,0 +1,10 @@
+html {
+  background: #ffffff;
+}
+canvas {
+  display:block;
+  margin:auto;
+  /*border:1px solid red;*/
+width: 25%;
+  background: rgba(255, 255, 255, 0.38);
+}
